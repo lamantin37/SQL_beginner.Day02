@@ -21,11 +21,11 @@ Resume: Today you will see how to get needed data based on different structures 
 7. [Chapter VII](#chapter-vii) \
     7.1. [Exercise 03 - Reformat to CTE](#exercise-03-reformat-to-cte)  
 8. [Chapter VIII](#chapter-viii) \
-    8.1. [Exercise 04 - Find a favorite pizzas](#exercise-04-find-a-favorite-pizzas)
+    8.1. [Exercise 04 - Find favourite pizzas](#exercise-04-find-favourite-pizzas)
 9. [Chapter IX](#chapter-ix) \
     9.1. [Exercise 05 - Investigate Person Data](#exercise-05-investigate-person-data)
 10. [Chapter X](#chapter-x) \
-    10.1. [Exercise 06 - Favorite pizzas for Denis and Anna](#exercise-06-favorite-pizzas-for-denis-and-anna)
+    10.1. [Exercise 06 - favourite pizzas for Denis and Anna](#exercise-06-favourite-pizzas-for-denis-and-anna)
 11. [Chapter XI](#chapter-xi) \
     11.1. [Exercise 07 - Cheapest pizzeria for Dmitriy](#exercise-07-cheapest-pizzeria-for-dmitriy)
 12. [Chapter XII](#chapter-xii) \
@@ -51,7 +51,7 @@ So, in other words we can describe any SQL in mathematical terms of Relational A
 
 The main question (which I hear from my students) is why do we need to learn Relational Algebra in a course, if we can write a SQL in a first attempt? My answer is yes and no in one time. “Yes” means you can write a SQL from the first attempt, that’s right , “No” means you have to know the main aspects of Relational Algebra, because this knowledge is in use for optimization plans and for semantic queries. 
 Which type of joins are existing in Relational Algebra?
-Actually, “Cross Join” is a primitive operator and it is an anchestor for other types of joins.
+Actually, “Cross Join” is a primitive operator and it is an ancestor for other types of joins.
 - Natural Join
 - Theta Join
 - Semi Join
@@ -212,10 +212,10 @@ Let’s return back to Exercise #01, please rewrite your SQL by using the CTE (C
 | ... |
 
 ## Chapter VIII
-## Exercise 04 - Find a favorite pizzas
+## Exercise 04 - Find favourite pizzas
 
 
-| Exercise 04: Find a favorite pizzas |                                                                                                                          |
+| Exercise 04: Find favourite pizzas |                                                                                                                          |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Turn-in directory                     | ex04                                                                                                                     |
 | Files to turn-in                      | `day02_ex04.sql`                                                                                 |
@@ -252,10 +252,10 @@ Find names of all female persons older than 25 and order the result by name. The
 
 
 ## Chapter X
-## Exercise 06 - Favorite pizzas for Denis and Anna
+## Exercise 06 - favourite pizzas for Denis and Anna
 
 
-| Exercise 06: Favorite pizzas for Denis and Anna |                                                                                                                          |
+| Exercise 06: favourite pizzas for Denis and Anna |                                                                                                                          |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Turn-in directory                     | ex06                                                                                                                     |
 | Files to turn-in                      | `day02_ex06.sql`                                                                                 |
